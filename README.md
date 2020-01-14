@@ -6,7 +6,7 @@ The Team:
 
 Stephanus Nico Budiarso - 2101640952 (https://github.com/snico0901/)
 
-Juan Tanadiraharjo - 2101647731 (https://github.com/JuanTanadiraharjo/)
+Juan Tanadiraharjo - 2101647731
 
 Hendy Juniarto - 2101639534
 
