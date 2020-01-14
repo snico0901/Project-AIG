@@ -4,7 +4,7 @@ This is the famous 5x5 Tic Tac Toe game with MiniMax Algorithm for the AI.
 
 The Team:
 
-Stephanus Nico Budiarso - 2101640952 (https://github.com/snico0901/)
+Stephanus Nico Budiarso - 2101640952
 
 Juan Tanadiraharjo - 2101647731
 
